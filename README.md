@@ -18,7 +18,7 @@ Cut a new feature branch, named after the question
 ```sh
 git checkout -b BRANCHNAME
 ```
->>>>>>> Update README
+
 
 Create a new folder for your practice problem with the name of the problem
 and create a new JavaScript file in that folder.
@@ -58,4 +58,4 @@ git commit
 git push origin BRANCHNAME
 ```
 Create a pull request to the original repo and you have contributed a question!
->>>>>>> Update README
+
